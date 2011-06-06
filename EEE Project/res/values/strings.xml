@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Where is my bus???</string>
+    <string name="promptCompany">Select Company</string>
+    <string name="promptFavStop">Select Bus Stop</string>
+    
+    <string-array name="companies_array">
+        <item>ARRIVA</item>
+        <item>easyBus</item>
+        <item>National Bus</item>
+    </string-array>
+    
+    <string-array name="routes_array1">
+    	<item>A1</item>
+    	<item>A2</item>
+    	<item>A3</item>
+    </string-array>
+    
+    <string-array name="routes_array2">
+    	<item>B1</item>
+    	<item>B2</item>
+    	<item>B3</item>
+    </string-array>
+    
+    <string-array name="routes_array3">
+    	<item>C1</item>
+    	<item>C2</item>
+    	<item>C3</item>
+    </string-array>
+    
+    <string-array name="busStops_array1">
+    	<item>S1</item>
+    	<item>S2</item>
+    	<item>S3</item>
+    </string-array>
+    
+    <string-array name="busStops_array2">
+    	<item>T1</item>
+    	<item>T2</item>
+    	<item>T3</item>
+    </string-array>
+    
+    <string-array name="busStops_array3">
+    	<item>Q1</item>
+    	<item>Q2</item>
+    	<item>Q3</item>
+    </string-array>
+</resources>

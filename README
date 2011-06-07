@@ -1,0 +1,29 @@
+README 
+-----------
+
+Instruction:
+1) Clone repository from Github (use git clone git@github.com:username/myBus.git. Use the correct username)
+2) Depending on your operating system Windows or Linux open GitShell or terminal respectively
+3) cd /path/to/repository 
+4) Open Netbeans or Eclipse
+5) Open project (the repo folder will appear as a project to netbeans)
+6) Your are ready to write some f****ng code
+
+How to commit or pull changes
+-----------------------------
+Pull:
+	Pull means downloading any changes made by the other collaborators to your local directory. 
+	1) Open terminal (or gitshell) and cd /path/to/repo
+	2) Write the command -> git pull
+        3) That's it!
+Push:
+	Push is the inverse procedure of pulling. You upload any changes you have made to the code.
+	1) Open terminal (or gitshell) and cd /path/to/repo
+	2) Write -> git add --a
+	3) Then git commit -m"A short message explaining what you have modified, fixed etc"
+	4) Finally write the command -> git push 
+
+
+
+
+
